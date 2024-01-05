@@ -34,10 +34,7 @@
               data-testid="lifestyle"
               style="display: flex; flex-flow: column; flex: 1 1 auto"
             >
-              <img
-                alt="Lifestyle"
-                src="https://www10.wellsfargomedia.com/auth/static/images/COB-BOB-IRT-enroll_balloons.jpg"
-              /><span></span>
+             <span></span>
             </div>
             <nav
               class="WFMasthead__masthead___OlOdJ WFMasthead__fixed___FWKON WFMasthead__desktop___CKOzU"
@@ -139,137 +136,9 @@
                           align-items: center;
                         "
                       >
-                        <li>
-                          <a
-                            data-accessible-id="FZOCSFON"
-                            role="link"
-                            tabindex="0"
-                            ><div
-                              class=""
-                              style="
-                                display: flex;
-                                flex-flow: row;
-                                align-items: center;
-                              "
-                            >
-                              <svg
-                                width="14px"
-                                height="20px"
-                                viewBox="0 0 15 21"
-                                aria-hidden="true"
-                                role="img"
-                                class="CombinationLockIcon__lock___PucGt"
-                                focusable="false"
-                              >
-                                <path
-                                  d="M7.3 19.2c-3 0-5.5-2.5-5.5-5.5 0-3 2.5-5.5 5.5-5.5s5.5 2.5 5.5 5.5C12.8 16.7 10.3 19.2 7.3 19.2zM4.1
-          5c0-1.8 1.4-3.2 3.2-3.2 1.8 0 3.2 1.4 3.2 3.2v2.1C9.5 6.6 8.5 6.4 7.3 6.4c-1.1 0-2.2 0.3-3.2 0.7V5zM12.4
-          8.5V5.1C12.4 2.3 10.1 0 7.3 0 4.5 0 2.2 2.3 2.2 5.1v3.4C0.8 9.8 0 11.6 0 13.7 0 17.7 3.3 21 7.3
-          21s7.3-3.3 7.3-7.3C14.6 11.6 13.8 9.8 12.4 8.5L12.4 8.5zM7.3 12.1c0.3 0 0.5-0.2 0.5-0.5V9.4c0-0.3-0.2-0.5-0.5-0.5
-          -0.3 0-0.5 0.2-0.5 0.5v2.3C6.9 11.9 7.1 12.1 7.3 12.1zM5.8 13.7c0-0.3-0.2-0.5-0.5-0.5H3c-0.3 0-0.5 0.2-0.5 0.5 0
-          0.3 0.2 0.5 0.5 0.5h2.3C5.6 14.2 5.8 13.9 5.8 13.7zM7.3 15.2c-0.3 0-0.5 0.2-0.5 0.5v2.3c0 0.3 0.2 0.5 0.5 0.5
-          0.3 0 0.5-0.2 0.5-0.5v-2.3C7.8 15.5 7.6 15.2 7.3 15.2zM8.9 13.7c0 0.3 0.2 0.5 0.5 0.5h2.3c0.3 0 0.5-0.2 0.5-0.5
-          0-0.3-0.2-0.5-0.5-0.5H9.3C9.1 13.2 8.9 13.4 8.9 13.7zM6.2 12.6c0.2-0.2 0.2-0.5 0-0.6L4.6 10.3c-0.2-0.2-0.5-0.2-0.6 0
-          -0.2 0.2-0.2 0.5 0 0.6l1.6 1.6C5.8 12.8 6 12.8 6.2 12.6zM6.2 14.8c-0.2-0.2-0.5-0.2-0.6 0l-1.6 1.6c-0.2 0.2-0.2 0.5 0
-          0.6 0.2 0.2 0.5 0.2 0.6 0l1.6-1.6C6.4 15.3 6.4 15 6.2 14.8zM8.4 14.8c-0.2 0.2-0.2 0.5 0 0.6l1.6 1.6c0.2 0.2 0.5 0.2
-          0.6 0 0.2-0.2 0.2-0.5 0-0.6l-1.6-1.6C8.9 14.6 8.6 14.6 8.4 14.8zM8.4 12.6c0.2 0.2 0.5 0.2 0.6 0l1.6-1.6c0.2-0.2 0.2-0.5 0-0.6
-          -0.2-0.2-0.5-0.2-0.6 0l-1.6 1.6C8.2 12.1 8.2 12.4 8.4 12.6z"
-                                ></path>
-                              </svg>
-                              <div class="" style="padding-left: 0.5rem">
-                                Enroll
-                              </div>
-                            </div></a
-                          >
-                        </li>
-                        <li>
-                          <a
-                            data-accessible-id="PBKAEQMO"
-                            role="link"
-                            tabindex="0"
-                            >Customer Service</a
-                          >
-                        </li>
-                        <li>
-                          <a
-                            data-accessible-id="QOBMXQYS"
-                            role="link"
-                            tabindex="0"
-                            >ATMs/Locations</a
-                          >
-                        </li>
-                        <li>
-                          <a
-                            data-accessible-id="GLEBVKYN"
-                            role="link"
-                            tabindex="0"
-                            >Español</a
-                          >
-                        </li>
+                       
                       </ul>
-                      <form
-                        action="https://www.wellsfargo.com/search/search?"
-                        method="get"
-                      >
-                        <div class="Search__search___f2Xas">
-                          <input
-                            name="q"
-                            type="text"
-                            maxlength="75"
-                            autocomplete="off"
-                            autocapitalize="off"
-                            title="Search"
-                            placeholder="Search"
-                            aria-label="Search"
-                            alt="Search"
-                          /><button
-                            type="button"
-                            aria-label="Search"
-                            class="Button__button___Jo8E3 Search__icon___flfAa"
-                          >
-                            <span
-                              class=""
-                              style="
-                                display: flex;
-                                flex-flow: row;
-                                align-items: center;
-                                justify-content: center;
-                              "
-                              ><svg
-                                width="20px"
-                                height="20px"
-                                viewBox="0 0 20 20"
-                                aria-hidden="true"
-                                role="img"
-                                focusable="false"
-                              >
-                                <g
-                                  stroke="none"
-                                  stroke-width="1"
-                                  fill="none"
-                                  fill-rule="evenodd"
-                                >
-                                  <g
-                                    transform="translate(-720.000000, -18.000000)"
-                                    fill="#3b3331"
-                                  >
-                                    <g
-                                      transform="translate(659.000000, 10.000000)"
-                                    >
-                                      <g
-                                        transform="translate(61.000000, 8.000000)"
-                                      >
-                                        <path
-                                          d="M19.633175,17.9638111 L14.1574098,12.4856873 C15.1389485,11.1469131 15.664755,9.52836696 15.6574238,7.86831972 C15.6386954,3.53504559 12.1339938,0.0251075646 7.80092209,7.96007691e-05 C5.72730302,-0.00930269987 3.73605767,0.81105703 2.27077918,2.27840585 C0.805500694,3.74575466 -0.0120928677,5.73820252 0.000135215858,7.8118884 C0.0188635483,12.145557 3.52388496,15.6558148 7.85735118,15.6808428 C9.52409554,15.688067 11.1484911,15.1561022 12.4881086,14.1643404 L12.4938229,14.1600545 L17.9645881,19.6338924 C18.2603749,19.9442125 18.7011175,20.0698227 19.1160487,19.9620551 C19.5309799,19.8542875 19.8549019,19.5300753 19.9623101,19.1150357 C20.0697184,18.6999962 19.9437359,18.2593439 19.633175,17.9638111 L19.633175,17.9638111 Z M7.85163685,14.1121951 C4.38505325,14.0922527 1.58108171,11.284347 1.56586407,7.81760296 C1.55650769,6.15886911 2.21063635,4.56523094 3.38263843,3.3914386 C4.55464052,2.21764625 6.14724151,1.56112283 7.80592213,1.56801306 C11.2725057,1.58795544 14.0764773,4.39586112 14.0916949,7.86260515 C14.1010513,9.521339 13.4469226,11.1149772 12.2749205,12.2887695 C11.1029185,13.4625619 9.51031747,14.1190853 7.85163685,14.1121951 Z"
-                                        ></path>
-                                      </g>
-                                    </g>
-                                  </g>
-                                </g></svg
-                            ></span>
-                          </button>
-                        </div>
-                      </form>
+                     
                     </div>
                   </div>
                   <div class="KeyLine__keyLine___CunYI"></div>
