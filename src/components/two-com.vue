@@ -127,22 +127,7 @@
                           align-items: center;
                         "
                       >
-                        <li>
-                          <a
-                            data-accessible-id="SMIYBCLY"
-                            role="link"
-                            tabindex="0"
-                            >Online Security</a
-                          >
-                        </li>
-                        <li>
-                          <a
-                            data-accessible-id="LPGYMUQQ"
-                            role="link"
-                            tabindex="0"
-                            >Español</a
-                          >
-                        </li>
+                       
                       </ul>
                     </div>
                   </div>
