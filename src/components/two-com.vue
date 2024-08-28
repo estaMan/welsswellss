@@ -3,13 +3,13 @@
     <!-- Countdown Card -->
     <div class="card text-center">
       <div class="card-header d-flex align-items-center justify-content-between">
-        <img src="../images/avatar.jpg" class="rounded-circle" alt="Avatar 1" style="width: 100px; height: 100px" />
+        <img src="../avatar.jpg" class="rounded-circle" alt="Avatar 1" style="width: 100px; height: 100px" />
 
         <!-- Title -->
         <h3 class="mx-3">🎉🥳<strong>Save The Date</strong>🎉🥳</h3>
 
         <!-- Avatar After -->
-        <img src="../images/avatar1.png" class="rounded-circle" alt="Avatar 2" style="width: 100px; height: 100px" />
+        <img src="../avatar1.png" class="rounded-circle" alt="Avatar 2" style="width: 100px; height: 100px" />
       </div>
       <div class="card-body">
         <h5 class="card-title">Countdown to our special day! <strong>06/10/2024</strong></h5>
@@ -28,22 +28,22 @@
     >
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img style="border-radius: 30px" src="../images/cr.jpg" class="d-block w-100" alt="Image 1" />
+          <img style="border-radius: 30px" src="../cr.jpg" class="d-block w-100" alt="Image 1" />
         </div>
         <div class="carousel-item">
-          <img style="border-radius: 30px" src="../images/cr4.jpg" class="d-block w-100" alt="Image 2" />
+          <img style="border-radius: 30px" src="../cr4.jpg" class="d-block w-100" alt="Image 2" />
         </div>
         <div class="carousel-item">
-          <img style="border-radius: 30px" src="../images/cr3.jpg" class="d-block w-100" alt="Image 3" />
+          <img style="border-radius: 30px" src="../cr3.jpg" class="d-block w-100" alt="Image 3" />
         </div>
         <div class="carousel-item">
-          <img style="border-radius: 30px" src="../images/cr1.jpg" class="d-block w-100" alt="Image 4" />
+          <img style="border-radius: 30px" src="../cr1.jpg" class="d-block w-100" alt="Image 4" />
         </div>
         <div class="carousel-item">
-          <img style="border-radius: 30px" src="../images/cr5.jpg" class="d-block w-100" alt="Image 5" />
+          <img style="border-radius: 30px" src="../cr5.jpg" class="d-block w-100" alt="Image 5" />
         </div>
         <div class="carousel-item">
-          <img style="border-radius: 30px" src="../images/avatar2.jpg" class="d-block w-100" alt="Image 5" />
+          <img style="border-radius: 30px" src="../avatar2.jpg" class="d-block w-100" alt="Image 5" />
         </div>
       </div>
       <a class="carousel-control-prev" href="#imageCarousel" role="button" data-slide="prev">
@@ -110,7 +110,7 @@ body::after {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('../images/avatar2.jpg') no-repeat center center;
+  background: url('../avatar2.jpg') no-repeat center center;
   background-size: cover;
   opacity: 0.7; /* Light opacity */
   z-index: -1;
